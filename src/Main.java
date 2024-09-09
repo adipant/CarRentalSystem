@@ -133,7 +133,7 @@ class CarRentalSystem {
         }
     }
 
-    public void menu() {
+    public void menu(){
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
